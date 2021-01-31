@@ -18,7 +18,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "mygitrepo"
+    "url": "https://github.com/easygater/node-express-es6-api-skeleton.git"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=production && yarn server:prod",
